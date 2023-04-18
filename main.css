@@ -145,7 +145,8 @@ header label {
   text-transform: uppercase;
 }
 
-.inicio .content h3 span {
+.inicio .content span {
+  font-size: 4rem;
   color: var(--limon);
   text-transform: uppercase;
 }
